@@ -1,5 +1,7 @@
 # Backend_task
 This repository contains implementations of Task 1 and Task 2 using different database systems: SQLite and MongoDB.
+Task 1 is authenticating and signing up users. This involves building an API to sign up the users and store the user details in the database.
+Task 2 is implementing CRUD operations for toy shop.
 
 # Steps to run the tasks implemented using SQLite database
 
